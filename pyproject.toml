@@ -55,7 +55,7 @@ dependencies = [
     "markdown-it-py (==3.0.0)",
     "markupsafe (==2.0.1)",
     "mdurl (==0.1.2)",
-    "packaging (>=23)",
+    "packaging (==24.1)",
     "pluggy (==1.5.0)",
     "pycparser (==2.22)",
     "pydantic (==2.6.3)",
